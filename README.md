@@ -1,5 +1,5 @@
 
-TCP/IP to UART converter compatile with virtual environment or Arduino Mega 2560.
+TCP/IP to UART converter compatile with virtual environment or Arduino Mega 2560. Base converters contain minimal features (essentially just conversion of serial port settings) while secure converter uses SSL/TLS encryption, nonblocking i/o, multithreading, and logging.
 
 Files:
 
